@@ -4,9 +4,9 @@ AmbiRooms is a customizable soundscape generator that can help you setup a sound
 
 # Features
 
-* 6 virtual spaces available to choose from (Nature, Park, Cafe, Library, Home, Bus)
+* **6 virtual spaces** available to choose from (Nature, Park, Cafe, Library, Home, Bus)
 
-* Provides up to 22 ambient sounds in total for layering and 4-6 sound elements curated for each soundscape 
+* Provides up to **22 ambient sounds** in total for layering and 4-6 sound elements curated for each soundscape 
   
   	* Nature: rain, birds, fire, crickets, waterfall, wind 
   
@@ -25,7 +25,7 @@ AmbiRooms is a customizable soundscape generator that can help you setup a sound
 
 * Audio elements can be set to their respective volumes using the volume sliders
 
-* Minimal task list that displays user's tasks and removes them 
+* **Minimal task list** that displays user's tasks and removes them 
 
 # Virtual Spaces
 Nature             |  Park
